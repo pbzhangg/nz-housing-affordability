@@ -1,0 +1,864 @@
+﻿Suburb,TLA,Average property value,3-month change %,3-month change $
+Runanga,Grey,"$301,000",8.3,23000
+Lake Hayes,Queenstown-Lakes,"$2,813,000",7.6,198000
+Cobden,Grey,"$323,000",7.3,22000
+Richmond Heights,Taupo,"$815,000",5.2,40000
+Paroa,Grey,"$714,000",5.2,35000
+Motuoapa,Taupo,"$819,000",4.9,38000
+Karoro,Grey,"$611,000",4.6,27000
+Greymouth,Grey,"$480,000",4.3,20000
+Hawthorndale,Invercargill,"$501,000",4.2,20000
+Kinloch,Taupo,"$1,406,000",4,54000
+Tauhara,Taupo,"$622,000",4,24000
+New Lynn,Auckland Waitakere,"$874,000",3.9,33000
+Hilltop,Taupo,"$899,000",3.9,34000
+Bluff,Invercargill,"$356,000",3.8,13000
+Otatara,Invercargill,"$805,000",3.7,29000
+Fernside,Waimakariri,"$1,272,000",3.5,43000
+Arrowtown,Queenstown-Lakes,"$2,799,000",3.5,94000
+Georgetown,Invercargill,"$394,000",3.4,13000
+Blaketown,Grey,"$336,000",3.4,11000
+Oneroa,Auckland City,"$2,213,000",3.2,69000
+Coastlands,Whakatane,"$1,003,000",3.2,31000
+Waipahihi,Taupo,"$1,128,000",3.2,35000
+Clyde,Central Otago,"$990,000",3.1,30000
+Torbay,Auckland North Shore,"$1,254,000",3,37000
+Kawerau,Kawerau,"$414,000",3,12000
+Turangi,Taupo,"$482,000",3,14000
+Maori Hill,Timaru,"$595,000",2.9,17000
+Rangatira Park,Taupo,"$1,028,000",2.8,28000
+Twizel,Mackenzie,"$787,000",2.7,21000
+Avenal,Invercargill,"$496,000",2.7,13000
+Waverley,Invercargill,"$580,000",2.7,15000
+Meadowbank,Auckland City,"$1,671,000",2.6,42000
+Huapai,Auckland Rodney,"$1,247,000",2.6,32000
+Point Wells,Auckland Rodney,"$2,334,000",2.6,59000
+Kennedys Bush,Christchurch,"$1,802,000",2.6,46000
+Eyrewell,Waimakariri,"$1,029,000",2.6,26000
+Lower Shotover,Queenstown-Lakes,"$1,818,000",2.6,46000
+Grasmere,Invercargill,"$477,000",2.6,12000
+Taupo,Taupo,"$752,000",2.6,19000
+Mairehau,Christchurch,"$654,000",2.5,16000
+Lake Tekapo,Mackenzie,"$1,179,000",2.5,29000
+Saint Kilda,Dunedin,"$525,000",2.5,13000
+Bryndwr,Christchurch,"$805,000",2.4,19000
+Newfield,Invercargill,"$463,000",2.4,11000
+Waikiwi,Invercargill,"$629,000",2.4,15000
+Waverley,South Taranaki,"$425,000",2.4,10000
+Omaha,Auckland Rodney,"$2,754,000",2.3,61000
+Rosedale,Invercargill,"$758,000",2.3,17000
+Opunake,South Taranaki,"$491,000",2.3,11000
+Greenlane,Auckland City,"$1,828,000",2.1,38000
+Sunnynook,Auckland North Shore,"$1,183,000",2.1,24000
+Spreydon,Christchurch,"$635,000",2.1,13000
+Vogeltown,New Plymouth,"$621,000",2.1,13000
+Red Hill,Auckland Papakura,"$797,000",2,16000
+Parkside,Timaru,"$466,000",2,9000
+Loburn,Waimakariri,"$1,160,000",2,23000
+Bridge Hill,Central Otago,"$973,000",2,19000
+Mount Pisa,Central Otago,"$1,516,000",2,29000
+Frankton,Queenstown-Lakes,"$1,300,000",2,25000
+Grey Lynn,Auckland City,"$1,760,000",1.9,32000
+Leithfield,Hurunui,"$685,000",1.9,13000
+Alexandra,Central Otago,"$788,000",1.9,15000
+Redwood Valley,Tasman,"$1,621,000",1.9,31000
+Upper Moutere,Tasman,"$1,319,000",1.9,25000
+Kensington,Timaru,"$464,000",1.8,8000
+Parkvale,Hastings,"$665,000",1.8,12000
+Woodville,Tararua,"$450,000",1.8,8000
+Te Aroha,Matamata-Piako,"$688,000",1.8,12000
+Yaldhurst,Christchurch,"$983,000",1.7,16000
+Southbridge,Selwyn,"$654,000",1.7,11000
+Cust,Waimakariri,"$1,054,000",1.7,18000
+Appleby,Invercargill,"$350,000",1.7,6000
+Heidelberg,Invercargill,"$425,000",1.7,7000
+Rakaia,Ashburton,"$575,000",1.6,9000
+Cheviot,Hurunui,"$520,000",1.6,8000
+Glenwood,Timaru,"$555,000",1.6,9000
+Sefton,Waimakariri,"$990,000",1.6,16000
+Waimate,Waimate,"$519,000",1.6,8000
+Roxburgh,Central Otago,"$493,000",1.6,8000
+Glengarry,Invercargill,"$449,000",1.6,7000
+Winton,Southland,"$628,000",1.6,10000
+Bell Block,New Plymouth,"$756,000",1.6,12000
+Tasman,Tasman,"$1,583,000",1.6,25000
+Mission Bay,Auckland City,"$2,196,000",1.5,32000
+Marshland,Christchurch,"$1,090,000",1.5,16000
+Pahiatua,Tararua,"$488,000",1.5,7000
+Nelson South,Nelson,"$762,000",1.5,11000
+Ranfurly,Central Otago,"$465,000",1.5,7000
+Arthurs Point,Queenstown-Lakes,"$1,669,000",1.5,24000
+Kingswell,Invercargill,"$419,000",1.5,6000
+Strathern,Invercargill,"$397,000",1.5,6000
+Te Kuiti,Waitomo,"$469,000",1.5,7000
+Papakura,Auckland Papakura,"$810,000",1.4,11000
+Mount Maunganui,Tauranga,"$1,488,000",1.4,20000
+Cracroft,Christchurch,"$1,142,000",1.4,16000
+Stepneyville,Nelson,"$1,214,000",1.4,17000
+Queenstown,Queenstown-Lakes,"$1,780,000",1.4,24000
+Blagdon,New Plymouth,"$582,000",1.4,8000
+Fairview Heights,Auckland North Shore,"$1,607,000",1.3,21000
+Te Atatu South,Auckland Waitakere,"$929,000",1.3,12000
+Edgecumbe,Whakatane,"$645,000",1.3,8000
+Hillmorton,Christchurch,"$685,000",1.3,9000
+Mahora,Hastings,"$693,000",1.3,9000
+Mayfair,Hastings,"$608,000",1.3,8000
+Wanaka,Queenstown-Lakes,"$2,119,000",1.3,28000
+Lynmouth,New Plymouth,"$698,000",1.3,9000
+Marfell,New Plymouth,"$479,000",1.3,6000
+Richmond,Tasman,"$850,000",1.3,11000
+Ngatea,Hauraki,"$723,000",1.3,9000
+Campbells Bay,Auckland North Shore,"$2,344,000",1.2,28000
+Te Atatu Peninsula,Auckland Waitakere,"$1,073,000",1.2,13000
+Lynmore,Rotorua,"$905,000",1.2,11000
+Springfield,Rotorua,"$783,000",1.2,9000
+Parkvale,Tauranga,"$670,000",1.2,8000
+Wainoni,Christchurch,"$519,000",1.2,6000
+Temuka,Timaru,"$525,000",1.2,6000
+Hastings,Hastings,"$598,000",1.2,7000
+Foxton,Horowhenua,"$506,000",1.2,6000
+Corstorphine,Dunedin,"$611,000",1.2,7000
+Upper Vogeltown,New Plymouth,"$688,000",1.2,8000
+Westown,New Plymouth,"$649,000",1.2,8000
+Nukuhau,Taupo,"$896,000",1.2,11000
+Clover Park,Auckland Manukau,"$852,000",1.1,9000
+Redwood,Christchurch,"$669,000",1.1,7000
+Russley,Christchurch,"$712,000",1.1,8000
+Fairlie,Mackenzie,"$554,000",1.1,6000
+Albert Town,Queenstown-Lakes,"$1,633,000",1.1,17000
+Fitzroy,New Plymouth,"$953,000",1.1,10000
+Frankleigh Park,New Plymouth,"$704,000",1.1,8000
+Welbourn,New Plymouth,"$705,000",1.1,8000
+Hope,Tasman,"$1,274,000",1.1,14000
+Kohimarama,Auckland City,"$2,199,000",1,21000
+Greenhithe,Auckland North Shore,"$1,778,000",1,17000
+Windsor Park,Auckland North Shore,"$1,352,000",1,14000
+Bethlehem,Tauranga,"$1,108,000",1,11000
+Whakatane,Whakatane,"$681,000",1,7000
+Heathcote Valley,Christchurch,"$834,000",1,8000
+Hei Hei,Christchurch,"$621,000",1,6000
+Prebbleton,Selwyn,"$1,303,000",1,13000
+Highfield,Timaru,"$611,000",1,6000
+Waimataitai,Timaru,"$515,000",1,5000
+West End,Timaru,"$502,000",1,5000
+Akina,Hastings,"$619,000",1,6000
+Waitarere Beach,Horowhenua,"$616,000",1,6000
+Forrest Hill,Auckland North Shore,"$1,381,000",0.9,12000
+Whenuapai,Auckland Waitakere,"$1,236,000",0.9,11000
+Islington,Christchurch,"$583,000",0.9,5000
+Riccarton,Christchurch,"$763,000",0.9,7000
+Richmond,Christchurch,"$579,000",0.9,5000
+Sumner,Christchurch,"$1,204,000",0.9,11000
+Amberley,Hurunui,"$744,000",0.9,7000
+Ohoka,Waimakariri,"$1,483,000",0.9,13000
+Marewa,Napier,"$560,000",0.9,5000
+Cromwell,Central Otago,"$1,005,000",0.9,9000
+Tapanui,Clutha,"$434,000",0.9,4000
+Windsor,Invercargill,"$592,000",0.9,5000
+Moturoa,New Plymouth,"$752,000",0.9,7000
+Spotswood,New Plymouth,"$562,000",0.9,5000
+Wakefield,Tasman,"$932,000",0.9,8000
+Beerescourt,Hamilton,"$997,000",0.9,9000
+Glenfield,Auckland North Shore,"$1,025,000",0.8,8000
+Murrays Bay,Auckland North Shore,"$1,809,000",0.8,15000
+Rosehill,Auckland Papakura,"$921,000",0.8,7000
+Red Beach,Auckland Rodney,"$1,235,000",0.8,10000
+Ohope,Whakatane,"$1,272,000",0.8,10000
+Aranui,Christchurch,"$484,000",0.8,4000
+Diamond Harbour,Christchurch,"$785,000",0.8,6000
+Somerfield,Christchurch,"$740,000",0.8,6000
+Rolleston,Selwyn,"$867,000",0.8,7000
+Marchwiel,Timaru,"$525,000",0.8,4000
+Watlington,Timaru,"$478,000",0.8,4000
+Outer Kaiti,Gisborne,"$498,000",0.8,4000
+Ohakune,Ruapehu,"$490,000",0.8,4000
+Tawa,Wellington,"$853,000",0.8,7000
+Mangere East,Auckland Manukau,"$865,000",0.7,6000
+Beach Haven,Auckland North Shore,"$1,050,000",0.7,7000
+Oteha,Auckland North Shore,"$1,175,000",0.7,8000
+Laingholm,Auckland Waitakere,"$993,000",0.7,7000
+Aidanfield,Christchurch,"$920,000",0.7,6000
+Phillipstown,Christchurch,"$461,000",0.7,3000
+Saint Martins,Christchurch,"$758,000",0.7,5000
+Tai Tapu,Selwyn,"$1,478,000",0.7,10000
+Pegasus,Waimakariri,"$837,000",0.7,6000
+Te Hapara,Gisborne,"$564,000",0.7,4000
+Clive,Hastings,"$887,000",0.7,6000
+Eskdale,Hastings,"$1,343,000",0.7,9000
+Frimley,Hastings,"$881,000",0.7,6000
+Foxton Beach,Horowhenua,"$603,000",0.7,4000
+Bulls,Rangitikei,"$553,000",0.7,4000
+Helensburgh,Dunedin,"$743,000",0.7,5000
+Acacia Bay,Taupo,"$1,388,000",0.7,9000
+Wharewaka,Taupo,"$1,376,000",0.7,10000
+Huntly,Waikato,"$553,000",0.7,4000
+Beachlands,Auckland Manukau,"$1,566,000",0.6,9000
+Clendon Park,Auckland Manukau,"$729,000",0.6,4000
+Totara Vale,Auckland North Shore,"$1,004,000",0.6,6000
+Owhata,Rotorua,"$658,000",0.6,4000
+Victoria,Rotorua,"$504,000",0.6,3000
+Avonhead,Christchurch,"$816,000",0.6,5000
+Broomfield,Christchurch,"$703,000",0.6,4000
+Burnside,Christchurch,"$898,000",0.6,5000
+Fendalton,Christchurch,"$1,776,000",0.6,10000
+Templeton,Christchurch,"$801,000",0.6,5000
+Lincoln,Selwyn,"$1,022,000",0.6,6000
+Geraldine,Timaru,"$620,000",0.6,4000
+Gladstone,Invercargill,"$629,000",0.6,4000
+Richmond,Invercargill,"$496,000",0.6,3000
+Strandon,New Plymouth,"$1,004,000",0.6,6000
+Waitara,New Plymouth,"$489,000",0.6,3000
+Appleby,Tasman,"$1,051,000",0.6,6000
+Brightwater,Tasman,"$963,000",0.6,6000
+Peacocke,Hamilton,"$1,128,000",0.6,7000
+Belmont,Auckland North Shore,"$1,536,000",0.5,7000
+Pahurehure,Auckland Papakura,"$961,000",0.5,5000
+Sunnyvale,Auckland Waitakere,"$869,000",0.5,4000
+Dallington,Christchurch,"$600,000",0.5,3000
+Edgeware,Christchurch,"$563,000",0.5,3000
+Hornby,Christchurch,"$606,000",0.5,3000
+Shirley,Christchurch,"$646,000",0.5,3000
+Leeston,Selwyn,"$766,000",0.5,4000
+Woodhill,Whangarei,"$575,000",0.5,3000
+Mornington,Dunedin,"$578,000",0.5,3000
+Weston,Waitaki,"$774,000",0.5,4000
+Wallacetown,Southland,"$586,000",0.5,3000
+Highlands Park,New Plymouth,"$886,000",0.5,4000
+Otorohanga,Otorohanga,"$633,000",0.5,3000
+Tokoroa,South Waikato,"$422,000",0.5,2000
+Taita,Lower Hutt,"$625,000",0.5,3000
+Woburn,Lower Hutt,"$1,166,000",0.5,6000
+Orakei,Auckland City,"$2,374,000",0.4,9000
+Dannemora,Auckland Manukau,"$1,672,000",0.4,6000
+Maraetai,Auckland Manukau,"$1,524,000",0.4,6000
+Otara,Auckland Manukau,"$748,000",0.4,3000
+Shelly Park,Auckland Manukau,"$1,545,000",0.4,6000
+Waiake,Auckland North Shore,"$1,591,000",0.4,7000
+Hatfields Beach,Auckland Rodney,"$1,142,000",0.4,4000
+Glendene,Auckland Waitakere,"$920,000",0.4,4000
+Massey,Auckland Waitakere,"$955,000",0.4,4000
+Avondale,Christchurch,"$563,000",0.4,2000
+Mount Pleasant,Christchurch,"$1,146,000",0.4,5000
+Seaview,Timaru,"$478,000",0.4,2000
+Fernhill,Queenstown-Lakes,"$1,360,000",0.4,5000
+Kelvin Heights,Queenstown-Lakes,"$2,720,000",0.4,12000
+Riwaka,Tasman,"$809,000",0.4,3000
+Hamilton East,Hamilton,"$724,000",0.4,3000
+Maeroa,Hamilton,"$716,000",0.4,3000
+Wai o Taiki Bay,Auckland City,"$1,508,000",0.3,4000
+Castor Bay,Auckland North Shore,"$1,955,000",0.3,6000
+Pinehill,Auckland North Shore,"$1,749,000",0.3,6000
+Parakai,Auckland Rodney,"$746,000",0.3,2000
+Wigram,Christchurch,"$867,000",0.3,3000
+Pirimai,Napier,"$611,000",0.3,2000
+Fairfield,Dunedin,"$777,000",0.3,2000
+Green Island,Dunedin,"$610,000",0.3,2000
+Kaikorai,Dunedin,"$584,000",0.3,2000
+Waverley,Dunedin,"$799,000",0.3,2000
+Holmes Hill,Waitaki,"$593,000",0.3,2000
+Riverton/Aparima,Southland,"$677,000",0.3,2000
+Kihikihi,Waipa,"$757,000",0.3,2000
+Saint Marys Bay,Auckland City,"$2,868,000",0.2,6000
+The Gardens,Auckland Manukau,"$1,255,000",0.2,2000
+Schnapper Rock,Auckland North Shore,"$1,633,000",0.2,3000
+Matata,Whakatane,"$867,000",0.2,2000
+Hampstead,Ashburton,"$464,000",0.2,1000
+Harewood,Christchurch,"$1,108,000",0.2,2000
+Raureka,Hastings,"$605,000",0.2,1000
+Dannevirke,Tararua,"$484,000",0.2,1000
+Milton,Clutha,"$448,000",0.2,1000
+Abbotsford,Dunedin,"$628,000",0.2,1000
+Halfway Bush,Dunedin,"$633,000",0.2,1000
+Lake Hawea,Queenstown-Lakes,"$1,299,000",0.2,3000
+Kakanui,Waitaki,"$656,000",0.2,1000
+Naenae,Lower Hutt,"$623,000",0.2,1000
+Eden Terrace,Auckland City,"$802,000",0.1,1000
+Onetangi,Auckland City,"$1,946,000",0.1,2000
+Saint Heliers,Auckland City,"$2,301,000",0.1,3000
+Albany,Auckland North Shore,"$1,118,000",0.1,1000
+Bayview,Auckland North Shore,"$996,000",0.1,1000
+Devonport,Auckland North Shore,"$2,121,000",0.1,3000
+Ngongotaha,Rotorua,"$687,000",0.1,1000
+Omokoroa,Western Bay of Plenty,"$1,124,000",0.1,1000
+Methven,Ashburton,"$728,000",0.1,1000
+Beckenham,Christchurch,"$874,000",0.1,1000
+Belfast,Christchurch,"$697,000",0.1,1000
+Merivale,Christchurch,"$1,577,000",0.1,1000
+Stoke,Nelson,"$739,000",0.1,1000
+Mount Wellington,Auckland City,"$958,000",0,0
+Weymouth,Auckland Manukau,"$775,000",0,0
+Wiri,Auckland Manukau,"$671,000",0,0
+Chatswood,Auckland North Shore,"$1,469,000",0,0
+Hamurana,Rotorua,"$1,178,000",0,0
+Hillcrest,Rotorua,"$590,000",0,0
+Avonside,Christchurch,"$545,000",0,0
+Bishopdale,Christchurch,"$687,000",0,0
+Bromley,Christchurch,"$524,000",0,0
+Opawa,Christchurch,"$783,000",0,0
+Sockburn,Christchurch,"$623,000",0,0
+Gleniti,Timaru,"$821,000",0,0
+Whataupoko,Gisborne,"$818,000",0,0
+Otane,Central Hawke's Bay,"$752,000",0,0
+Tokomaru,Horowhenua,"$659,000",0,0
+Mosgiel,Dunedin,"$742,000",0,0
+Saint Clair,Dunedin,"$871,000",0,0
+Inglewood,New Plymouth,"$643,000",0,0
+Whalers Gate,New Plymouth,"$777,000",0,0
+Eltham,South Taranaki,"$419,000",0,0
+Normanby,South Taranaki,"$519,000",0,0
+Patea,South Taranaki,"$307,000",0,0
+Takaka,Tasman,"$732,000",0,0
+Fairfield,Hamilton,"$752,000",0,0
+Otahuhu,Auckland City,"$746,000",-0.1,-1000
+Three Kings,Auckland City,"$1,123,000",-0.1,-1000
+Northpark,Auckland Manukau,"$1,444,000",-0.1,-1000
+Randwick Park,Auckland Manukau,"$768,000",-0.1,-1000
+Unsworth Heights,Auckland North Shore,"$1,163,000",-0.1,-1000
+Athenree,Western Bay of Plenty,"$1,114,000",-0.1,-1000
+Clifton,Christchurch,"$1,335,000",-0.1,-2000
+Southshore,Christchurch,"$718,000",-0.1,-1000
+Oxford,Waimakariri,"$702,000",-0.1,-1000
+Outram,Dunedin,"$848,000",-0.1,-1000
+Matamata,Matamata-Piako,"$803,000",-0.1,-1000
+Tuakau,Waikato,"$830,000",-0.1,-1000
+Leamington,Waipa,"$938,000",-0.1,-1000
+One Tree Hill,Auckland City,"$1,316,000",-0.2,-3000
+Manly,Auckland Rodney,"$1,221,000",-0.2,-2000
+Snells Beach,Auckland Rodney,"$1,092,000",-0.2,-2000
+Koutu,Rotorua,"$509,000",-0.2,-1000
+Te Puke,Western Bay of Plenty,"$825,000",-0.2,-2000
+Waltham,Christchurch,"$517,000",-0.2,-1000
+Swannanoa,Waimakariri,"$1,286,000",-0.2,-3000
+Lytton West,Gisborne,"$908,000",-0.2,-2000
+Ohau,Horowhenua,"$968,000",-0.2,-2000
+Eketahuna,Tararua,"$422,000",-0.2,-1000
+Toi Toi,Nelson,"$547,000",-0.2,-1000
+Horahora,Whangarei,"$634,000",-0.2,-1000
+Maryhill,Dunedin,"$592,000",-0.2,-1000
+Oamaru North,Waitaki,"$494,000",-0.2,-1000
+Maungaraki,Lower Hutt,"$850,000",-0.2,-2000
+Panmure,Auckland City,"$978,000",-0.3,-3000
+Goodwood Heights,Auckland Manukau,"$1,040,000",-0.3,-3000
+Mellons Bay,Auckland Manukau,"$2,081,000",-0.3,-7000
+Takapuna,Auckland North Shore,"$2,164,000",-0.3,-6000
+Gate Pa,Tauranga,"$678,000",-0.3,-2000
+Hoon Hay,Christchurch,"$671,000",-0.3,-2000
+Huntsbury,Christchurch,"$1,142,000",-0.3,-4000
+Westmorland,Christchurch,"$1,168,000",-0.3,-3000
+Woolston,Christchurch,"$581,000",-0.3,-2000
+Marybank,Nelson,"$916,000",-0.3,-3000
+Nelson,Nelson,"$1,124,000",-0.3,-3000
+Kensington,Whangarei,"$605,000",-0.3,-2000
+Regent,Whangarei,"$653,000",-0.3,-2000
+Glenview,Waipa,"$756,000",-0.3,-2000
+Ohaupo,Waipa,"$1,285,000",-0.3,-4000
+Korokoro,Lower Hutt,"$948,000",-0.3,-3000
+Bucklands Beach,Auckland Manukau,"$1,658,000",-0.4,-7000
+Eastern Beach,Auckland Manukau,"$1,855,000",-0.4,-7000
+Favona,Auckland Manukau,"$850,000",-0.4,-3000
+Tahawai,Western Bay of Plenty,"$1,253,000",-0.4,-5000
+Hillsborough,Christchurch,"$820,000",-0.4,-3000
+Papanui,Christchurch,"$768,000",-0.4,-3000
+Hanmer Springs,Hurunui,"$839,000",-0.4,-3000
+Kirwee,Selwyn,"$998,000",-0.4,-4000
+Gisborne,Gisborne,"$550,000",-0.4,-2000
+Bunnythorpe,Manawatu,"$888,000",-0.4,-4000
+Witherlea,Marlborough,"$764,000",-0.4,-3000
+Kauri,Whangarei,"$1,057,000",-0.4,-4000
+Balclutha,Clutha,"$452,000",-0.4,-2000
+Andersons Bay,Dunedin,"$668,000",-0.4,-3000
+Belleknowes,Dunedin,"$796,000",-0.4,-3000
+Calton Hill,Dunedin,"$483,000",-0.4,-2000
+North East Valley,Dunedin,"$547,000",-0.4,-2000
+Luggate,Queenstown-Lakes,"$1,179,000",-0.4,-5000
+South Hill,Waitaki,"$540,000",-0.4,-2000
+Lower Vogeltown,New Plymouth,"$719,000",-0.4,-3000
+Oakura,New Plymouth,"$1,340,000",-0.4,-5000
+Hawera,South Taranaki,"$539,000",-0.4,-2000
+Mapua,Tasman,"$1,160,000",-0.4,-5000
+Silverdale,Hamilton,"$716,000",-0.4,-3000
+Westmere,Auckland City,"$2,527,000",-0.5,-12000
+Pukehangi,Rotorua,"$617,000",-0.5,-3000
+Maungatapu,Tauranga,"$877,000",-0.5,-4000
+North New Brighton,Christchurch,"$578,000",-0.5,-3000
+Strowan,Christchurch,"$1,222,000",-0.5,-6000
+Sydenham,Christchurch,"$564,000",-0.5,-3000
+Waipukurau,Central Hawke's Bay,"$629,000",-0.5,-3000
+Sanson,Manawatu,"$657,000",-0.5,-3000
+Te Anau,Southland,"$781,000",-0.5,-4000
+Claudelands,Hamilton,"$752,000",-0.5,-4000
+Melville,Hamilton,"$640,000",-0.5,-3000
+Tirau,South Waikato,"$654,000",-0.5,-3000
+Churton Park,Wellington,"$1,080,000",-0.5,-5000
+Hillsborough,Auckland City,"$1,257,000",-0.6,-8000
+Point England,Auckland City,"$957,000",-0.6,-6000
+Stonefields,Auckland City,"$1,535,000",-0.6,-9000
+Mangakakahi,Rotorua,"$512,000",-0.6,-3000
+Sunnybrook,Rotorua,"$698,000",-0.6,-4000
+Western Heights,Rotorua,"$510,000",-0.6,-3000
+Brookfield,Tauranga,"$797,000",-0.6,-5000
+Linwood,Christchurch,"$503,000",-0.6,-3000
+Kaikoura,Kaikoura,"$774,000",-0.6,-5000
+Kaiapoi,Waimakariri,"$699,000",-0.6,-4000
+Elgin,Gisborne,"$471,000",-0.6,-3000
+Flaxmere,Hastings,"$486,000",-0.6,-3000
+Maraenui,Napier,"$473,000",-0.6,-3000
+Shannon,Horowhenua,"$478,000",-0.6,-3000
+Tahunanui,Nelson,"$686,000",-0.6,-4000
+Onerahi,Whangarei,"$625,000",-0.6,-4000
+Raumanga,Whangarei,"$477,000",-0.6,-3000
+Whau Valley,Whangarei,"$672,000",-0.6,-4000
+Brockville,Dunedin,"$528,000",-0.6,-3000
+North Dunedin,Dunedin,"$703,000",-0.6,-4000
+Roslyn,Dunedin,"$888,000",-0.6,-5000
+Shiel Hill,Dunedin,"$783,000",-0.6,-5000
+Glenorchy,Queenstown-Lakes,"$1,493,000",-0.6,-9000
+Merrilands,New Plymouth,"$769,000",-0.6,-5000
+Deanwell,Waipa,"$633,000",-0.6,-4000
+Auckland Central,Auckland City,"$573,000",-0.7,-4000
+Onehunga,Auckland City,"$1,055,000",-0.7,-7000
+Sandringham,Auckland City,"$1,343,000",-0.7,-10000
+Wesley,Auckland City,"$1,088,000",-0.7,-8000
+Farm Cove,Auckland Manukau,"$1,716,000",-0.7,-12000
+Long Bay,Auckland North Shore,"$1,678,000",-0.7,-12000
+Redcliffs,Christchurch,"$1,184,000",-0.7,-8000
+Pleasant Point,Timaru,"$603,000",-0.7,-4000
+Atawhai,Nelson,"$928,000",-0.7,-7000
+Enner Glynn,Nelson,"$886,000",-0.7,-6000
+The Brook,Nelson,"$688,000",-0.7,-5000
+Avenues,Whangarei,"$530,000",-0.7,-4000
+Maunu,Whangarei,"$971,000",-0.7,-7000
+Parahaki,Whangarei,"$719,000",-0.7,-5000
+Paeroa,Hauraki,"$576,000",-0.7,-4000
+Kingsland,Auckland City,"$1,346,000",-0.8,-11000
+Totara Heights,Auckland Manukau,"$1,001,000",-0.8,-8000
+Hauraki,Auckland North Shore,"$1,964,000",-0.8,-15000
+Pomare,Rotorua,"$714,000",-0.8,-6000
+Greerton,Tauranga,"$710,000",-0.8,-6000
+Minden,Western Bay of Plenty,"$1,593,000",-0.8,-13000
+Casebrook,Christchurch,"$838,000",-0.8,-7000
+Kaiti,Gisborne,"$508,000",-0.8,-4000
+Napier South,Napier,"$648,000",-0.8,-5000
+Terrace End,Palmerston North,"$628,000",-0.8,-5000
+Taumarunui,Ruapehu,"$358,000",-0.8,-3000
+Picton,Marlborough,"$645,000",-0.8,-5000
+Washington Valley,Nelson,"$614,000",-0.8,-5000
+Rototuna,Hamilton,"$992,000",-0.8,-8000
+Kelson,Lower Hutt,"$830,000",-0.8,-7000
+Botany Downs,Auckland Manukau,"$1,238,000",-0.9,-11000
+Cockle Bay,Auckland Manukau,"$1,580,000",-0.9,-14000
+Golflands,Auckland Manukau,"$1,278,000",-0.9,-11000
+Manurewa,Auckland Manukau,"$787,000",-0.9,-7000
+Hillcrest,Auckland North Shore,"$1,201,000",-0.9,-11000
+Fairy Springs,Rotorua,"$542,000",-0.9,-5000
+Elgin,Ashburton,"$964,000",-0.9,-9000
+Burwood,Christchurch,"$693,000",-0.9,-6000
+Cashmere,Christchurch,"$1,157,000",-0.9,-10000
+Northcote,Christchurch,"$583,000",-0.9,-5000
+Upper Riccarton,Christchurch,"$683,000",-0.9,-6000
+Darfield,Selwyn,"$842,000",-0.9,-8000
+Woodend,Waimakariri,"$731,000",-0.9,-7000
+Inner Kaiti,Gisborne,"$693,000",-0.9,-6000
+Castlecliff,Whanganui,"$436,000",-0.9,-4000
+Glenbervie,Whangarei,"$1,170,000",-0.9,-11000
+Morningside,Whangarei,"$545,000",-0.9,-5000
+Port Chalmers,Dunedin,"$560,000",-0.9,-5000
+Motueka,Tasman,"$733,000",-0.9,-7000
+Huntington,Hamilton,"$1,037,000",-0.9,-9000
+Nawton,Hamilton,"$658,000",-0.9,-6000
+Rototuna North,Hamilton,"$997,000",-0.9,-9000
+Pirongia,Waipa,"$1,026,000",-0.9,-9000
+Normandale,Lower Hutt,"$880,000",-0.9,-8000
+Mount Albert,Auckland City,"$1,289,000",-1,-13000
+Newmarket,Auckland City,"$870,000",-1,-9000
+Saint Johns,Auckland City,"$1,460,000",-1,-15000
+Patumahoe,Auckland Franklin,"$1,250,000",-1,-12000
+Waiuku,Auckland Franklin,"$862,000",-1,-9000
+East Tamaki,Auckland Manukau,"$1,097,000",-1,-11000
+Manukau,Auckland Manukau,"$606,000",-1,-6000
+Northcote,Auckland North Shore,"$1,192,000",-1,-12000
+Kelston,Auckland Waitakere,"$858,000",-1,-9000
+Westgate,Auckland Waitakere,"$882,000",-1,-9000
+Hairini,Tauranga,"$757,000",-1,-8000
+Aongatete,Western Bay of Plenty,"$1,302,000",-1,-13000
+Oropi,Western Bay of Plenty,"$1,523,000",-1,-16000
+Akaroa,Christchurch,"$1,058,000",-1,-11000
+South New Brighton,Christchurch,"$624,000",-1,-6000
+St Albans,Christchurch,"$908,000",-1,-9000
+Rangiora,Waimakariri,"$714,000",-1,-7000
+Haumoana,Hastings,"$1,161,000",-1,-12000
+Mayfield,Marlborough,"$571,000",-1,-6000
+Springlands,Marlborough,"$834,000",-1,-8000
+Kaikohe,Far North,"$402,000",-1,-4000
+Ruakaka,Whangarei,"$890,000",-1,-9000
+Tikipunga,Whangarei,"$602,000",-1,-6000
+Dunedin Central,Dunedin,"$704,000",-1,-7000
+Sawyers Bay,Dunedin,"$668,000",-1,-7000
+Otautau,Southland,"$415,000",-1,-4000
+Queenwood,Hamilton,"$996,000",-1,-10000
+Morrinsville,Matamata-Piako,"$790,000",-1,-8000
+Solway,Masterton,"$616,000",-1,-6000
+Camborne,Porirua,"$920,000",-1,-9000
+Freemans Bay,Auckland City,"$1,648,000",-1.1,-18000
+Ponsonby,Auckland City,"$2,334,000",-1.1,-26000
+Mangere,Auckland Manukau,"$845,000",-1.1,-9000
+Ranui,Auckland Waitakere,"$846,000",-1.1,-9000
+Northwood,Christchurch,"$1,071,000",-1.1,-12000
+Westshore,Napier,"$999,000",-1.1,-11000
+Tangimoana,Manawatu,"$442,000",-1.1,-5000
+Aokautere,Palmerston North,"$1,168,000",-1.1,-13000
+Forbury,Dunedin,"$448,000",-1.1,-5000
+Musselburgh,Dunedin,"$636,000",-1.1,-7000
+Waikouaiti,Dunedin,"$535,000",-1.1,-6000
+Oamaru,Waitaki,"$449,000",-1.1,-5000
+Enderley,Hamilton,"$612,000",-1.1,-7000
+Hamilton Central,Hamilton,"$740,000",-1.1,-8000
+St Andrews,Hamilton,"$826,000",-1.1,-9000
+Whitiora,Hamilton,"$630,000",-1.1,-7000
+Ostend,Auckland City,"$1,423,000",-1.2,-17000
+Papatoetoe,Auckland Manukau,"$824,000",-1.2,-10000
+Conifer Grove,Auckland Papakura,"$996,000",-1.2,-12000
+Tindalls Beach,Auckland Rodney,"$1,607,000",-1.2,-19000
+Glenholme,Rotorua,"$645,000",-1.2,-8000
+Kawaha Point,Rotorua,"$755,000",-1.2,-9000
+Parklands,Christchurch,"$746,000",-1.2,-9000
+Saint Leonards,Hastings,"$593,000",-1.2,-7000
+Rongotea,Manawatu,"$715,000",-1.2,-9000
+Burleigh,Marlborough,"$1,032,000",-1.2,-13000
+Eastbourne,Lower Hutt,"$1,119,000",-1.2,-14000
+Stokes Valley,Lower Hutt,"$636,000",-1.2,-8000
+Cannons Creek,Porirua,"$560,000",-1.2,-7000
+Plimmerton,Porirua,"$990,000",-1.2,-12000
+Clouston Park,Upper Hutt,"$662,000",-1.2,-8000
+Morningside,Auckland City,"$1,228,000",-1.3,-16000
+Browns Bay,Auckland North Shore,"$1,231,000",-1.3,-16000
+Matua,Tauranga,"$1,175,000",-1.3,-16000
+Otumoetai,Tauranga,"$1,014,000",-1.3,-13000
+Addington,Christchurch,"$553,000",-1.3,-7000
+Lyttelton,Christchurch,"$768,000",-1.3,-10000
+New Brighton,Christchurch,"$549,000",-1.3,-7000
+West Melton,Selwyn,"$1,296,000",-1.3,-17000
+Renwick,Marlborough,"$771,000",-1.3,-10000
+The Wood,Nelson,"$774,000",-1.3,-10000
+Kaitaia,Far North,"$451,000",-1.3,-6000
+Mangonui,Far North,"$825,000",-1.3,-11000
+Ngunguru,Whangarei,"$991,000",-1.3,-13000
+Caversham,Dunedin,"$468,000",-1.3,-6000
+Dinsdale,Hamilton,"$704,000",-1.3,-9000
+Raglan,Waikato,"$1,173,000",-1.3,-16000
+Te Kauwhata,Waikato,"$825,000",-1.3,-11000
+Te Awamutu,Waipa,"$773,000",-1.3,-10000
+Fairfield,Lower Hutt,"$756,000",-1.3,-10000
+Berhampore,Wellington,"$827,000",-1.3,-11000
+Glen Innes,Auckland City,"$1,112,000",-1.4,-16000
+East Tamaki Heights,Auckland Manukau,"$1,754,000",-1.4,-25000
+Rothesay Bay,Auckland North Shore,"$1,591,000",-1.4,-22000
+Gulf Harbour,Auckland Rodney,"$1,069,000",-1.4,-15000
+Matakana,Auckland Rodney,"$1,916,000",-1.4,-28000
+Titirangi,Auckland Waitakere,"$1,165,000",-1.4,-16000
+Waiotahe,Opotiki,"$987,000",-1.4,-14000
+Judea,Tauranga,"$722,000",-1.4,-10000
+Ohauiti,Western Bay of Plenty,"$1,092,000",-1.4,-16000
+Pukehina,Western Bay of Plenty,"$1,240,000",-1.4,-18000
+Christchurch Central,Christchurch,"$693,000",-1.4,-10000
+Bay View,Napier,"$996,000",-1.4,-14000
+Takaro,Palmerston North,"$549,000",-1.4,-8000
+Haruru,Far North,"$826,000",-1.4,-12000
+Jacks Point,Queenstown-Lakes,"$1,793,000",-1.4,-25000
+Hurdon,New Plymouth,"$803,000",-1.4,-11000
+Bader,Hamilton,"$582,000",-1.4,-8000
+Chartwell,Hamilton,"$825,000",-1.4,-12000
+Frankton,Hamilton,"$641,000",-1.4,-9000
+Grandview Heights,Hamilton,"$876,000",-1.4,-12000
+Hillcrest,Hamilton,"$769,000",-1.4,-11000
+Ngaruawahia,Waikato,"$724,000",-1.4,-10000
+Onewhero,Waikato,"$980,000",-1.4,-14000
+Alicetown,Lower Hutt,"$794,000",-1.4,-11000
+Avalon,Lower Hutt,"$711,000",-1.4,-10000
+Trentham,Upper Hutt,"$711,000",-1.4,-10000
+Crofton Downs,Wellington,"$1,000,000",-1.4,-14000
+Island Bay,Wellington,"$1,099,000",-1.4,-16000
+Royal Oak,Auckland City,"$1,350,000",-1.5,-20000
+Tauranga South,Tauranga,"$873,000",-1.5,-13000
+Ashburton,Ashburton,"$523,000",-1.5,-8000
+Kelvin Grove,Palmerston North,"$797,000",-1.5,-12000
+Maungakaramea,Whangarei,"$857,000",-1.5,-13000
+Palmerston,Waitaki,"$462,000",-1.5,-7000
+Chedworth,Hamilton,"$882,000",-1.5,-13000
+Pukete,Hamilton,"$799,000",-1.5,-12000
+Fairview Downs,Waikato,"$705,000",-1.5,-11000
+Ngahinapouri,Waipa,"$1,337,000",-1.5,-21000
+Epuni,Lower Hutt,"$771,000",-1.5,-12000
+Aotea,Porirua,"$1,204,000",-1.5,-18000
+Blockhouse Bay,Auckland City,"$1,139,000",-1.6,-19000
+Remuera,Auckland City,"$2,622,000",-1.6,-42000
+Mairangi Bay,Auckland North Shore,"$1,725,000",-1.6,-28000
+Whanganui,Whanganui,"$419,000",-1.6,-7000
+Te Kamo,Whangarei,"$740,000",-1.6,-12000
+Kenmure,Dunedin,"$616,000",-1.6,-10000
+Wakari,Dunedin,"$600,000",-1.6,-10000
+Gore,Gore,"$478,000",-1.6,-8000
+Forest Lake,Hamilton,"$733,000",-1.6,-12000
+Karapiro,Waipa,"$1,438,000",-1.6,-24000
+Pukerua Bay,Porirua,"$859,000",-1.6,-14000
+Lynfield,Auckland City,"$1,296,000",-1.7,-23000
+Somerville,Auckland Manukau,"$1,455,000",-1.7,-25000
+Green Bay,Auckland Waitakere,"$1,155,000",-1.7,-20000
+Utuhina,Rotorua,"$563,000",-1.7,-10000
+Waihi Beach,Western Bay of Plenty,"$1,478,000",-1.7,-25000
+Waipawa,Central Hawke's Bay,"$622,000",-1.7,-11000
+Highbury,Palmerston North,"$523,000",-1.7,-9000
+Milson,Palmerston North,"$618,000",-1.7,-11000
+Kaeo,Far North,"$809,000",-1.7,-14000
+Maungatapere,Whangarei,"$1,040,000",-1.7,-18000
+Ravensbourne,Dunedin,"$520,000",-1.7,-9000
+Paraparaumu,Kapiti Coast,"$803,000",-1.7,-14000
+Pakuranga,Auckland Manukau,"$1,104,000",-1.8,-20000
+Kumeu,Auckland Rodney,"$1,494,000",-1.8,-28000
+Silverdale,Auckland Rodney,"$1,328,000",-1.8,-24000
+Papamoa,Western Bay of Plenty,"$887,000",-1.8,-16000
+Havelock,Marlborough,"$694,000",-1.8,-13000
+Waikawa,Marlborough,"$958,000",-1.8,-18000
+Tainui,Dunedin,"$598,000",-1.8,-11000
+Cambridge,Waipa,"$1,185,000",-1.8,-22000
+Petone,Lower Hutt,"$813,000",-1.8,-15000
+Papakowhai,Porirua,"$873,000",-1.8,-16000
+Glendowie,Auckland City,"$2,204,000",-1.9,-43000
+Hillpark,Auckland Manukau,"$908,000",-1.9,-18000
+Sunnyhills,Auckland Manukau,"$1,584,000",-1.9,-31000
+Wattle Downs,Auckland Manukau,"$1,012,000",-1.9,-20000
+Henderson,Auckland Waitakere,"$906,000",-1.9,-18000
+Mangapapa,Gisborne,"$631,000",-1.9,-12000
+Taradale,Napier,"$813,000",-1.9,-16000
+Whanganui East,Whanganui,"$461,000",-1.9,-9000
+Blenheim,Marlborough,"$604,000",-1.9,-12000
+Tutukaka,Whangarei,"$1,270,000",-1.9,-25000
+Fitzroy,Hamilton,"$770,000",-1.9,-15000
+Whatawhata,Waikato,"$1,193,000",-1.9,-23000
+Lansdowne,Masterton,"$633,000",-1.9,-12000
+Wilton,Wellington,"$910,000",-1.9,-18000
+Hokitika,Westland,"$466,000",-1.9,-9000
+New Windsor,Auckland City,"$1,177,000",-2,-24000
+Pukekohe,Auckland Franklin,"$893,000",-2,-18000
+Howick,Auckland Manukau,"$1,151,000",-2,-23000
+Pakuranga Heights,Auckland Manukau,"$1,111,000",-2,-23000
+Birkdale,Auckland North Shore,"$940,000",-2,-19000
+Welcome Bay,Western Bay of Plenty,"$896,000",-2,-18000
+Whakamarama,Western Bay of Plenty,"$1,523,000",-2,-31000
+Ahuriri,Napier,"$1,024,000",-2,-21000
+Tamatea,Napier,"$597,000",-2,-12000
+Hokowhitu,Palmerston North,"$780,000",-2,-16000
+Hurworth,New Plymouth,"$1,133,000",-2,-23000
+Flagstaff,Hamilton,"$1,101,000",-2,-22000
+Horotiu,Waikato,"$943,000",-2,-19000
+Hutt Central,Lower Hutt,"$970,000",-2,-20000
+Waterloo,Lower Hutt,"$827,000",-2,-17000
+Paremata,Porirua,"$928,000",-2,-19000
+Johnsonville,Wellington,"$822,000",-2,-17000
+Penrose,Auckland City,"$964,000",-2.1,-21000
+Mangere Bridge,Auckland Manukau,"$1,131,000",-2.1,-24000
+Narrow Neck,Auckland North Shore,"$1,910,000",-2.1,-40000
+Northcote Point,Auckland North Shore,"$1,686,000",-2.1,-37000
+Northcross,Auckland North Shore,"$1,264,000",-2.1,-27000
+Warkworth,Auckland Rodney,"$1,190,000",-2.1,-26000
+Pyes Pa,Western Bay of Plenty,"$1,101,000",-2.1,-24000
+Meeanee,Napier,"$1,160,000",-2.1,-25000
+Ashhurst,Manawatu,"$716,000",-2.1,-15000
+Fitzherbert,Palmerston North,"$934,000",-2.1,-20000
+Hamilton Lake,Hamilton,"$889,000",-2.1,-19000
+Waihi,Hauraki,"$702,000",-2.1,-15000
+Pokeno,Waikato,"$1,009,000",-2.1,-22000
+Temple View,Waipa,"$995,000",-2.1,-21000
+Ebdentown,Upper Hutt,"$660,000",-2.1,-14000
+Ellerslie,Auckland City,"$1,177,000",-2.2,-26000
+Epsom,Auckland City,"$2,132,000",-2.2,-47000
+Point Chevalier,Auckland City,"$1,820,000",-2.2,-40000
+Clarks Beach,Auckland Franklin,"$1,135,000",-2.2,-25000
+Wellsford,Auckland Rodney,"$819,000",-2.2,-18000
+Bellevue,Tauranga,"$794,000",-2.2,-18000
+Onekawa,Napier,"$580,000",-2.2,-13000
+Waipapa,Far North,"$1,035,000",-2.2,-23000
+Parua Bay,Whangarei,"$1,102,000",-2.2,-25000
+Waipu,Whangarei,"$1,122,000",-2.2,-25000
+Kaitangata,Clutha,"$305,000",-2.2,-7000
+Pukekawa,Waikato,"$1,104,000",-2.2,-25000
+Kuripuni,Masterton,"$524,000",-2.2,-12000
+Parnell,Auckland City,"$2,049,000",-2.3,-48000
+Manurewa East,Auckland Manukau,"$709,000",-2.3,-17000
+Helensville,Auckland Rodney,"$1,144,000",-2.3,-27000
+Swanson,Auckland Waitakere,"$1,144,000",-2.3,-27000
+Katikati,Western Bay of Plenty,"$780,000",-2.3,-18000
+Cloverlea,Palmerston North,"$553,000",-2.3,-13000
+Whitianga,Thames-Coromandel,"$1,026,000",-2.3,-24000
+Carterton,Carterton,"$635,000",-2.3,-15000
+Half Moon Bay,Auckland Manukau,"$1,536,000",-2.4,-37000
+West Harbour,Auckland Waitakere,"$1,246,000",-2.4,-31000
+Opotiki,Opotiki,"$456,000",-2.4,-11000
+Poraiti,Napier,"$1,209,000",-2.4,-30000
+Marton,Rangitikei,"$497,000",-2.4,-12000
+Gonville,Whanganui,"$439,000",-2.4,-11000
+Concord,Dunedin,"$568,000",-2.4,-14000
+Maori Hill,Dunedin,"$1,054,000",-2.4,-26000
+Mount Roskill,Auckland City,"$1,116,000",-2.5,-29000
+Waterview,Auckland City,"$1,001,000",-2.5,-26000
+Flat Bush,Auckland Manukau,"$1,307,000",-2.5,-34000
+Highland Park,Auckland Manukau,"$1,132,000",-2.5,-29000
+Wainui,Auckland Rodney,"$1,377,000",-2.5,-36000
+Awapuni,Palmerston North,"$621,000",-2.5,-16000
+West End,Palmerston North,"$590,000",-2.5,-15000
+Springvale,Whanganui,"$578,000",-2.5,-15000
+Hikurangi,Whangarei,"$556,000",-2.5,-14000
+Boulcott,Lower Hutt,"$854,000",-2.5,-22000
+Paparangi,Wellington,"$823,000",-2.5,-21000
+Albany Heights,Auckland North Shore,"$1,379,000",-2.6,-37000
+Birkenhead,Auckland North Shore,"$1,289,000",-2.6,-35000
+Karaka,Auckland Papakura,"$1,570,000",-2.6,-42000
+Halswell,Christchurch,"$856,000",-2.6,-23000
+Ilam,Christchurch,"$923,000",-2.6,-25000
+Manakau,Horowhenua,"$920,000",-2.6,-25000
+Tawhero,Whanganui,"$530,000",-2.6,-14000
+South Dunedin,Dunedin,"$419,000",-2.6,-11000
+Stratford,Stratford,"$515,000",-2.6,-14000
+Titahi Bay,Porirua,"$711,000",-2.6,-19000
+Featherston,South Wairarapa,"$569,000",-2.6,-15000
+Brown Owl,Upper Hutt,"$747,000",-2.6,-20000
+Wadestown,Wellington,"$1,204,000",-2.6,-32000
+Woodridge,Wellington,"$916,000",-2.6,-24000
+Palmerston North,Palmerston North,"$614,000",-2.7,-17000
+Whangarei Heads,Whangarei,"$1,050,000",-2.7,-29000
+New Plymouth,New Plymouth,"$867,000",-2.7,-24000
+Whitby,Porirua,"$955,000",-2.7,-26000
+Totara Park,Upper Hutt,"$692,000",-2.7,-19000
+Glen Eden,Auckland Waitakere,"$836,000",-2.8,-24000
+Durie Hill,Whanganui,"$601,000",-2.8,-17000
+Belmont,Lower Hutt,"$918,000",-2.8,-26000
+Wallaceville,Upper Hutt,"$763,000",-2.8,-22000
+Hataitai,Wellington,"$1,131,000",-2.8,-33000
+Ngaio,Wellington,"$1,012,000",-2.8,-29000
+Opaheke,Auckland Papakura,"$1,014,000",-2.9,-30000
+Riverhead,Auckland Rodney,"$1,799,000",-2.9,-54000
+Hobsonville,Auckland Waitakere,"$1,102,000",-2.9,-33000
+Camberley,Hastings,"$529,000",-2.9,-16000
+Kaiwaka,Kaipara,"$915,000",-2.9,-27000
+Thames,Thames-Coromandel,"$710,000",-2.9,-21000
+Otaki,Kapiti Coast,"$709,000",-2.9,-21000
+Waikanae,Kapiti Coast,"$920,000",-2.9,-27000
+Masterton,Masterton,"$533,000",-2.9,-16000
+Birchville,Upper Hutt,"$707,000",-2.9,-21000
+Pinehaven,Upper Hutt,"$760,000",-2.9,-23000
+Milford,Auckland North Shore,"$1,762,000",-3,-55000
+Takanini,Auckland Papakura,"$901,000",-3,-28000
+Feilding,Manawatu,"$650,000",-3,-20000
+Riversdale,Marlborough,"$552,000",-3,-17000
+One Tree Point,Whangarei,"$1,060,000",-3,-33000
+Te Kowhai,Waikato,"$1,296,000",-3,-40000
+Grafton,Auckland City,"$655,000",-3.1,-21000
+Redwoodtown,Marlborough,"$603,000",-3.1,-19000
+Ranui,Porirua,"$616,000",-3.1,-20000
+Elderslea,Upper Hutt,"$731,000",-3.1,-23000
+Herne Bay,Auckland City,"$3,538,000",-3.2,-117000
+Te Awa,Napier,"$789,000",-3.2,-26000
+Westbrook,Palmerston North,"$553,000",-3.2,-18000
+Aramoho,Whanganui,"$487,000",-3.2,-16000
+Riverlea,Hamilton,"$839,000",-3.2,-28000
+Taupiri,Waikato,"$1,018,000",-3.2,-34000
+Timberlea,Upper Hutt,"$805,000",-3.2,-27000
+Avondale,Auckland City,"$914,000",-3.3,-31000
+Roslyn,Palmerston North,"$535,000",-3.3,-18000
+Ahipara,Far North,"$638,000",-3.3,-22000
+Paparoa,Kaipara,"$709,000",-3.3,-24000
+Putaruru,South Waikato,"$534,000",-3.3,-18000
+Tairua,Thames-Coromandel,"$1,070,000",-3.3,-36000
+Otaki Beach,Kapiti Coast,"$612,000",-3.3,-21000
+Karori,Wellington,"$1,089,000",-3.3,-37000
+Lyall Bay,Wellington,"$931,000",-3.3,-32000
+Bluff Hill,Napier,"$922,000",-3.5,-33000
+Moera,Lower Hutt,"$578,000",-3.5,-21000
+Wainuiomata,Lower Hutt,"$640,000",-3.5,-23000
+Waiwhetu,Lower Hutt,"$724,000",-3.5,-26000
+Greytown,South Wairarapa,"$941,000",-3.5,-34000
+Silverstream,Upper Hutt,"$875,000",-3.5,-32000
+Newtown,Wellington,"$930,000",-3.5,-34000
+Westmere,Whanganui,"$1,017,000",-3.6,-38000
+Maungaturoto,Kaipara,"$741,000",-3.6,-28000
+East Gore,Gore,"$397,000",-3.6,-15000
+Te Marua,Upper Hutt,"$819,000",-3.6,-31000
+Bayswater,Auckland North Shore,"$1,643,000",-3.7,-64000
+Hospital Hill,Napier,"$909,000",-3.7,-35000
+College Estate,Whanganui,"$601,000",-3.7,-23000
+Kawakawa,Far North,"$498,000",-3.7,-19000
+Tamahere,Waikato,"$2,019,000",-3.7,-78000
+Martinborough,South Wairarapa,"$979,000",-3.7,-38000
+Roseneath,Wellington,"$1,462,000",-3.7,-56000
+Taihape,Rangitikei,"$400,000",-3.8,-16000
+Cooks Beach,Thames-Coromandel,"$1,434,000",-3.8,-57000
+Waikanae Beach,Kapiti Coast,"$932,000",-3.8,-37000
+Heretaunga,Upper Hutt,"$931,000",-3.8,-37000
+Khandallah,Wellington,"$1,202,000",-3.8,-47000
+Miramar,Wellington,"$986,000",-3.8,-39000
+Great Barrier Island (Aotea Island),Auckland City,"$773,000",-3.9,-31000
+Surfdale,Auckland City,"$1,316,000",-3.9,-53000
+Stanmore Bay,Auckland Rodney,"$1,034,000",-3.9,-42000
+Paihia,Far North,"$799,000",-3.9,-32000
+Pauanui,Thames-Coromandel,"$1,532,000",-3.9,-63000
+Raumati Beach,Kapiti Coast,"$864,000",-3.9,-35000
+Henderson Valley,Auckland Waitakere,"$1,271,000",-4,-53000
+Brooklyn,Wellington,"$1,020,000",-4,-43000
+Mount Victoria,Wellington,"$1,158,000",-4,-48000
+Waimauku,Auckland Rodney,"$1,563,000",-4.1,-67000
+Greenmeadows,Napier,"$775,000",-4.1,-33000
+Mangawhai Heads,Kaipara,"$1,372,000",-4.1,-59000
+Coromandel,Thames-Coromandel,"$795,000",-4.1,-34000
+Riverstone Terraces,Upper Hutt,"$1,030,000",-4.1,-44000
+Newlands,Wellington,"$813,000",-4.1,-35000
+Levin,Horowhenua,"$569,000",-4.2,-25000
+Awanui,Far North,"$452,000",-4.2,-20000
+Paekakariki,Kapiti Coast,"$924,000",-4.2,-41000
+Karikari Peninsula,Far North,"$717,000",-4.3,-32000
+Kelburn,Wellington,"$1,345,000",-4.3,-61000
+Tauranga,Tauranga,"$973,000",-4.4,-45000
+Saint Johns Hill,Whanganui,"$669,000",-4.4,-31000
+Paraparaumu Beach,Kapiti Coast,"$851,000",-4.4,-39000
+Mount Cook,Wellington,"$744,000",-4.4,-34000
+Havelock North,Hastings,"$1,176,000",-4.5,-55000
+Matangi,Waikato,"$1,633,000",-4.5,-77000
+Raumati South,Kapiti Coast,"$878,000",-4.5,-41000
+Northland,Wellington,"$1,039,000",-4.5,-49000
+Westport,Buller,"$400,000",-4.5,-19000
+Mount Eden,Auckland City,"$1,706,000",-4.6,-83000
+Whangamata,Thames-Coromandel,"$1,378,000",-4.7,-68000
+Otamatea,Whanganui,"$886,000",-4.9,-46000
+Seatoun,Wellington,"$1,665,000",-4.9,-85000
+Dairy Flat,Auckland Rodney,"$2,282,000",-5,-121000
+Stillwater,Auckland Rodney,"$1,567,000",-5,-83000
+Papamoa Beach,Tauranga,"$1,035,000",-5,-54000
+Dargaville,Kaipara,"$509,000",-5,-27000
+Mataura,Gore,"$299,000",-5.1,-16000
+Ramarama,Auckland Franklin,"$1,407,000",-5.2,-77000
+Aro Valley,Wellington,"$890,000",-5.2,-49000
+Te Aro,Wellington,"$690,000",-5.3,-39000
+Orewa,Auckland Rodney,"$1,230,000",-5.4,-70000
+Mahia,Wairoa,"$769,000",-5.4,-44000
+Glenbrook,Auckland Franklin,"$1,125,000",-5.5,-65000
+Kerikeri,Far North,"$1,033,000",-5.5,-60000
+Paerata,Auckland Franklin,"$1,324,000",-5.6,-78000
+Waitakere,Auckland Waitakere,"$1,353,000",-5.6,-80000
+Otaihanga,Kapiti Coast,"$1,087,000",-5.6,-65000
+Reefton,Buller,"$374,000",-5.6,-22000
+Kaukapakapa,Auckland Rodney,"$1,374,000",-5.8,-85000
+Matarangi,Thames-Coromandel,"$1,116,000",-6,-71000
+Wellington Central,Wellington,"$521,000",-6,-33000
+Kilbirnie,Wellington,"$842,000",-6.1,-55000
+Mangawhai,Kaipara,"$1,367,000",-6.2,-91000
+Thorndon,Wellington,"$901,000",-6.2,-60000
+Tinwald,Ashburton,"$621,000",-6.3,-42000
+Strathmore Park,Wellington,"$950,000",-6.3,-64000
+Clevedon,Auckland Manukau,"$1,940,000",-6.5,-134000
+Wairoa,Wairoa,"$318,000",-6.5,-22000
+Russell,Far North,"$1,528,000",-6.6,-108000
+Hunua,Auckland Franklin,"$1,344,000",-6.9,-99000
+Totara Park,Auckland Manukau,"$1,441,000",-7.3,-114000
+Coatesville,Auckland Rodney,"$3,388,000",-7.4,-271000
+Whitford,Auckland Manukau,"$3,341,000",-7.6,-276000
+Allenton,Ashburton,"$638,000",-7.9,-55000
+Netherby,Ashburton,"$560,000",-11.5,-73000

@@ -1,0 +1,15 @@
+  mutate(Category = case_when(
+    Area_Name %in% c("Auckland") ~ "Auckland Urban",
+    Area_Name %in% c("Rodney", "Franklin", "Papakura") ~ "Auckland Rural",
+    
+    Area_Name == "Christchurch City" ~ "Canterbury Urban",
+    Area_Name %in% c("Ashburton District", "Hurunui District", "MacKenzie District",
+                     "Selwyn District", "Timaru District", "Waimakariri District", 
+                     "Waimate District", "Canterbury") ~ "Canterbury Rural",
+    
+    Area_Name %in% c("Wellington City", "Hutt City", "Upper Hutt City", "Porirua City") ~ "Wellington Urban",
+    Area_Name %in% c("Kapiti Coast District", "Masterton District", 
+                     "South Wairarapa District", "Carterton District", "Wellington") ~ "Wellington Rural",
+    
+    TRUE ~ "Other"
+  ))

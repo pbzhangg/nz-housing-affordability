@@ -1,0 +1,106 @@
+"","Year","Region","House_Price"
+"1",2005-01-01,"Christchurch City",276616
+"2",2005-01-01,"Auckland",406337
+"3",2005-01-01,"Wellington City",378106
+"4",2005-01-01,"Metro areas",351000
+"5",2005-01-01,"Rural areas",134896
+"6",2006-01-01,"Christchurch City",310940
+"7",2006-01-01,"Auckland",444322
+"8",2006-01-01,"Wellington City",420871
+"9",2006-01-01,"Metro areas",385292
+"10",2006-01-01,"Rural areas",160726
+"11",2007-01-01,"Christchurch City",350440
+"12",2007-01-01,"Auckland",493924
+"13",2007-01-01,"Wellington City",481997
+"14",2007-01-01,"Metro areas",434597
+"15",2007-01-01,"Rural areas",185833
+"16",2008-01-01,"Christchurch City",359249
+"17",2008-01-01,"Auckland",506337
+"18",2008-01-01,"Wellington City",501094
+"19",2008-01-01,"Metro areas",437369
+"20",2008-01-01,"Rural areas",197903
+"21",2009-01-01,"Christchurch City",326537
+"22",2009-01-01,"Auckland",462401
+"23",2009-01-01,"Wellington City",459775
+"24",2009-01-01,"Metro areas",398498
+"25",2009-01-01,"Rural areas",183330
+"26",2010-01-01,"Christchurch City",349609
+"27",2010-01-01,"Auckland",504597
+"28",2010-01-01,"Wellington City",490488
+"29",2010-01-01,"Metro areas",434849
+"30",2010-01-01,"Rural areas",188986
+"31",2011-01-01,"Christchurch City",347120
+"32",2011-01-01,"Auckland",500745
+"33",2011-01-01,"Wellington City",479856
+"34",2011-01-01,"Metro areas",437596
+"35",2011-01-01,"Rural areas",179493
+"36",2012-01-01,"Christchurch City",369047
+"37",2012-01-01,"Auckland",526830
+"38",2012-01-01,"Wellington City",485402
+"39",2012-01-01,"Metro areas",453369
+"40",2012-01-01,"Rural areas",189916
+"41",2013-01-01,"Christchurch City",408772
+"42",2013-01-01,"Auckland",593917
+"43",2013-01-01,"Wellington City",497939
+"44",2013-01-01,"Metro areas",499067
+"45",2013-01-01,"Rural areas",188300
+"46",2014-01-01,"Christchurch City",437877
+"47",2014-01-01,"Auckland",672734
+"48",2014-01-01,"Wellington City",508747
+"49",2014-01-01,"Metro areas",552643
+"50",2014-01-01,"Rural areas",192547
+"51",2015-01-01,"Christchurch City",449679
+"52",2015-01-01,"Auckland",783611
+"53",2015-01-01,"Wellington City",524787
+"54",2015-01-01,"Metro areas",614933
+"55",2015-01-01,"Rural areas",192470
+"56",2016-01-01,"Christchurch City",472184
+"57",2016-01-01,"Auckland",895381
+"58",2016-01-01,"Wellington City",598234
+"59",2016-01-01,"Metro areas",669453
+"60",2016-01-01,"Rural areas",205687
+"61",2017-01-01,"Christchurch City",474972
+"62",2017-01-01,"Auckland",987902
+"63",2017-01-01,"Wellington City",700600
+"64",2017-01-01,"Metro areas",741770
+"65",2017-01-01,"Rural areas",234395
+"66",2018-01-01,"Christchurch City",474295
+"67",2018-01-01,"Auckland",1001320
+"68",2018-01-01,"Wellington City",750871
+"69",2018-01-01,"Metro areas",757269
+"70",2018-01-01,"Rural areas",249448
+"71",2019-01-01,"Christchurch City",480815
+"72",2019-01-01,"Auckland",974156
+"73",2019-01-01,"Wellington City",797330
+"74",2019-01-01,"Metro areas",752979
+"75",2019-01-01,"Rural areas",272073
+"76",2020-01-01,"Christchurch City",497627
+"77",2020-01-01,"Auckland",1032727
+"78",2020-01-01,"Wellington City",865546
+"79",2020-01-01,"Metro areas",830518
+"80",2020-01-01,"Rural areas",317561
+"81",2021-01-01,"Christchurch City",598688
+"82",2021-01-01,"Auckland",1274463
+"83",2021-01-01,"Wellington City",1131561
+"84",2021-01-01,"Metro areas",1059778
+"85",2021-01-01,"Rural areas",383096
+"86",2022-01-01,"Christchurch City",758913
+"87",2022-01-01,"Auckland",1446245
+"88",2022-01-01,"Wellington City",1210828
+"89",2022-01-01,"Metro areas",1186522
+"90",2022-01-01,"Rural areas",478171
+"91",2023-01-01,"Christchurch City",709252
+"92",2023-01-01,"Auckland",1237941
+"93",2023-01-01,"Wellington City",1002727
+"94",2023-01-01,"Metro areas",1010021
+"95",2023-01-01,"Rural areas",441186
+"96",2024-01-01,"Christchurch City",746388
+"97",2024-01-01,"Auckland",1261676
+"98",2024-01-01,"Wellington City",1035028
+"99",2024-01-01,"Metro areas",1045523
+"100",2024-01-01,"Rural areas",447158
+"101",2025-01-01,"Christchurch City",752357
+"102",2025-01-01,"Auckland",1225448
+"103",2025-01-01,"Wellington City",953810
+"104",2025-01-01,"Metro areas",1006087
+"105",2025-01-01,"Rural areas",452237
